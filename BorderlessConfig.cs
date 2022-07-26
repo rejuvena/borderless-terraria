@@ -1,4 +1,4 @@
-using Microsoft.Xna.Framework.Graphics;
+using System.ComponentModel;
 using Terraria;
 using Terraria.ModLoader;
 using Terraria.ModLoader.Config;
@@ -11,6 +11,7 @@ namespace BorderlessTerraria
         public override ConfigScope Mode => ConfigScope.ClientSide;
 
         [Label("$Mods.BorderlessTerraria.Config.BorderlessFullscreen")]
+        [DefaultValue(true)]
         public bool BorderlessFullscreen;
 
         public override void OnLoaded()
