@@ -1,4 +1,5 @@
 displayName = Borderless Terraria (Borderless Window Enabler)
 author = Tomat
-version = 1.0.0
+version = 1.0.1
 side = Client
+homepage = https://discord.gg/Y8bvvqyFQw
