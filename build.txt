@@ -1,0 +1,4 @@
+displayName = Borderless Terraria (Borderless Window Enabler)
+author = Tomat
+version = 1.0.0
+side = Client

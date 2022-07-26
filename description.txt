@@ -1,0 +1,1 @@
+Allows you to go borderless fullscreen, like in vanilla Terraria.

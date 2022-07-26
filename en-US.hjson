@@ -1,0 +1,8 @@
+Mods: {
+    BorderlessTerraria: {
+        Config: {
+            Header: "Borderless Terraria Config",
+            BorderlessFullscreen: "Borderless Fullscreen"
+        }
+    }
+}
